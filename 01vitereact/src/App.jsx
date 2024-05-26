@@ -1,10 +1,10 @@
-
+import Chai from "./chai"
 
 function App() {
   
 
   return (
-    <h1>My Cutu React</h1>
+   <Chai/>
   )
 }
 
