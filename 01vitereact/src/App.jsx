@@ -2,9 +2,13 @@ import Chai from "./chai"
 
 function App() {
   
-
+const name="uri"
   return (
-   <Chai/>
+    <>
+    <Chai/>
+    <h1>hi {name}</h1>
+    </>
+   
   )
 }
 
